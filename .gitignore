@@ -1,0 +1,16 @@
+# Don't upload environment secrets
+.env
+
+# Python cache
+__pycache__/
+*.pyc
+
+# OS-specific files
+.DS_Store
+Thumbs.db
+
+# VS Code settings (optional)
+.vscode/
+
+# Jupyter or notebook files (optional)
+*.ipynb_checkpoints
